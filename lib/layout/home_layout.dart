@@ -3,7 +3,7 @@ import 'package:news/models/SourceResponse.dart';
 import 'package:news/models/category_model.dart';
 import 'package:news/network/remote/api_manager.dart';
 import 'package:news/screens/categories.dart';
-import 'package:news/screens/news_screen.dart';
+import 'package:news/screens/home/news_screen.dart';
 import 'package:news/screens/tabs_screen.dart';
 import 'package:news/screens/widgets/drawer_widget.dart';
 
